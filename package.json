@@ -1,0 +1,19 @@
+{
+  "name": "com.unity.example",
+  "version": "0.0.1",
+  "displayName": "EventPackage",
+  "description": "This is an example package",
+  "unity": "2019.4",
+  "unityRelease": "0b5",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "LiveParty",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}
